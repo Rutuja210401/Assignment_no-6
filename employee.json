@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Pravin",
+        "DOB": "1991-09-19",
+        "Height": 172.0,
+        "City": "Mumbai",
+        "State": "Maharashta"
+    },
+    {
+        "Name": "Kalyani",
+        "DOB": "1988-03-17",
+        "Height": 165.0,
+        "City": "Eden Gardens",
+        "State": "Kolkata"
+    },
+    {
+        "Name": "Prince",
+        "DOB": "2000-05-13",
+        "Height": 169.0,
+        "City": "Vasant Kunj",
+        "State": "Delhi"
+    },
+    {
+        "Name": "Divya",
+        "DOB": "1990-01-23",
+        "Height": 165.0,
+        "City": "Bhel",
+        "State": "Hyderabad"
+    },
+    {
+        "Name": "Ramesh",
+        "DOB": "1975-06-27",
+        "Height": 170.0,
+        "City": "Guntur",
+        "State": "Andhra Pradesh"
+    }
+]
